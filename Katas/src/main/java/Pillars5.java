@@ -1,4 +1,4 @@
-public class Pillars {
+public class Pillars5 {
     public static void main(String[] args) {
         System.out.println(pillars(2,20,25));
     }

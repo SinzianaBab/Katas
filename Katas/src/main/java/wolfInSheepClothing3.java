@@ -2,7 +2,7 @@
 
 import java.util.Arrays;
 
-public class wolfInSheepClothing {
+public class wolfInSheepClothing3 {
     public static void main(String[] args) {
         String[] string = {"sheep", "sheep", "sheep", "sheep", "sheep", "wolf", "sheep", "sheep"};
         warnTheSheep(string);
